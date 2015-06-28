@@ -7,7 +7,7 @@
 ■使用法
 
 php [スクリプト名] [src属性に使うディレクトリパス] [画像サイズ半減フラグ]
-ex: php main.php ./images/ false
+ex: php ~/.echoImgSize.php ./images/ false
 
 */
 
